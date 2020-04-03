@@ -9,7 +9,10 @@
             "email": "bilalbaraz@windowslive.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^7.2.5",
+        "laravel/framework": "^7.0"
+    },
     "autoload": {
         "psr-4": {
             "Bilalbaraz\\LaravelEnvChanger\\": "src/"
@@ -21,5 +24,7 @@
                 "Bilalbaraz\\LaravelEnvChanger\\EnvChangerServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
