@@ -1,0 +1,25 @@
+{
+    "name": "bilalbaraz/laravel-env-changer",
+    "type": "project",
+    "description": "",
+    "keywords": ["laravel"],
+    "authors": [
+        {
+            "name": "Bilal Baraz",
+            "email": "bilalbaraz@windowslive.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bilalbaraz\\LaravelEnvChanger\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bilalbaraz\\LaravelEnvChanger\\EnvChangerServiceProvider"
+            ]
+        }
+    }
+}
