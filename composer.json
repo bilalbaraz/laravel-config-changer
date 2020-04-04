@@ -2,6 +2,7 @@
     "name": "bilalbaraz/laravel-env-changer",
     "description": "",
     "keywords": ["laravel"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Bilal Baraz",
