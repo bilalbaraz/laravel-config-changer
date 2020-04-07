@@ -2,6 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/bilalbaraz/laravel-env-changer/v/stable)](https://packagist.org/packages/bilalbaraz/laravel-env-changer)
 [![License](https://poser.pugx.org/bilalbaraz/laravel-env-changer/license)](https://packagist.org/packages/bilalbaraz/laravel-env-changer)
+[![Build Status](https://travis-ci.org/bilalbaraz/laravel-env-changer.svg?branch=master)](https://travis-ci.org/bilalbaraz/laravel-env-changer)
 
 ## Installation
 
